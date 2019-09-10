@@ -1,0 +1,24 @@
+*{
+  background-color: darkcyan;
+}
+h2{
+  position: relative;
+  margin-left: 15%;
+  font-family:Luminari, fantasy;
+}
+ label{
+  padding-top: 25px;
+ }
+ input{
+   padding-top: 50px;
+ }
+ .btn{
+   margin-top: 25px;
+ }
+ option{
+   background-color: white;
+  
+ }
+ .result{
+   margin-top: 25px;
+ }
